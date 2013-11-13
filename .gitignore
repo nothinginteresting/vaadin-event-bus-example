@@ -1,3 +1,11 @@
+/.classpath
+/.project
+/.settings
+/bin
+/target
+/WebContent
+/src/main/webapp
+
 *.class
 
 # Package Files #
